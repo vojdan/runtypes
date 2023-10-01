@@ -1,0 +1,25 @@
+{
+  "name": "runtypes",
+  "version": "1.0.0",
+  "description": "Generate TS types from JSON at runtime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vojdan/runtypes.git"
+  },
+  "keywords": [
+    "TS",
+    "runtime",
+    "types",
+    "generator"
+  ],
+  "author": "Voidan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vojdan/runtypes/issues"
+  },
+  "homepage": "https://github.com/vojdan/runtypes#readme"
+}
